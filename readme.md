@@ -8,5 +8,6 @@ This sholarship gives it's participant a training about :
 4. Deep Learning application with Tensorflow
 5. Cloud Computing concepts
 6. AWS infrastructure and services.
+<p>Read more: https://digitalent.kominfo.go.id/pelatihan/detail/139</p>
 
-Also at the end of it, a sertification is given to validate the learned subjects.
+<p>Also at the end of it, a sertification is given to validate the learned subjects.</p>

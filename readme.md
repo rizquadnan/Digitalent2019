@@ -1,6 +1,6 @@
 <h1>DigiTalent!</h1>
 
-Documentation of my DigiTalent 2019 Machine LearningSchol arship journey from Kominfo Indonesia and Amazon Web Services(AWS)!
+Documentation of my DigiTalent 2019 Machine Learning Scholarship journey from Kominfo Indonesia and Amazon Web Services(AWS)!
 This sholarship gives it's participant a training about :
 1. Machine Learning fundamentals
 2. Machine Learning application with python
